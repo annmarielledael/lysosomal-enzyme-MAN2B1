@@ -51,17 +51,17 @@ This figure shows the counts or composition of the amino acids identified in the
 
 This figure presents the potential N-glycosylation motifs identified by the sequence analysis. These are predicted sequence motifs and do not confirm that glycosylation occurs at every site.
 
-## 5. Answers to the Lab Questions
+## 5. Questions & Answers
 
-### Question 1. What does your enzyme normally break down inside lysosomes?
+### 1. What does your enzyme normally break down inside lysosomes?
 
 - Lysosomal alpha-mannosidase, encoded by the MAN2B1 gene, helps break down glycoproteins by removing terminal alpha-linked mannose residues from their carbohydrate chains. This activity contributes to the normal degradation and recycling of cellular materials inside lysosomes.
 
-### Question 2. What is the total length of your protein, and which amino acids are most common?
+### 2. What is the total length of your protein, and which amino acids are most common?
 
 - The analyzed MAN2B1 protein sequence contains 1,011 amino acids. Leucine (L) is the most abundant amino acid, with 109 residues (10.78%). Alanine (A) follows with 84 residues (8.31%), while valine (V) has 74 residues (7.32%). Glycine (G) and arginine (R) each have 70 residues (6.92%).
 
-### Question 3. How many potential N-glycosylation motifs did you find? Where are they located?
+### 3. How many potential N-glycosylation motifs did you find? Where are they located?
 
 - The sequence analysis identified 11 potential N-glycosylation motifs at the following amino acid positions:
 
@@ -83,11 +83,11 @@ This figure presents the potential N-glycosylation motifs identified by the sequ
 
 These motifs match the N-X-S/T pattern, with no proline at the X position. Their presence indicates potential N-glycosylation sites but does not establish that they are actually glycosylated.
 
-### Question 4. Why can glycosylation matter for lysosomal proteins? Does finding a motif prove the protein is glycosylated?
+### 4. Why can glycosylation matter for lysosomal proteins? Does finding a motif prove the protein is glycosylated?
 
 - Glycosylation can help lysosomal proteins fold properly, maintain stability, and move through the cell's protein-processing and trafficking pathways. Some lysosomal enzymes also receive mannose-6-phosphate tags that help direct them to lysosomes. However, an N-X-S/T motif alone does not prove that a protein is glycosylated at that position. Actual glycosylation depends on additional biological factors and must be confirmed experimentally or using appropriate glycoproteomic evidence. The motif analysis in this project does not determine whether the protein has a mannose-6-phosphate tag.
 
-### Question 5. What could happen in the cell if your enzyme did not work properly?
+### 5. What could happen in the cell if your enzyme did not work properly?
 
 - If lysosomal alpha-mannosidase does not function properly, mannose-containing oligosaccharides from glycoprotein degradation may accumulate inside lysosomes. This can interfere with normal cellular waste processing and is associated with alpha-mannosidosis, a lysosomal storage disorder. The sequence analysis performed in this project does not measure enzyme activity or diagnose a disorder.
 
